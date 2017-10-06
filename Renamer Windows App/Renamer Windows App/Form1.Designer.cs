@@ -215,9 +215,9 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(163, 352);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(269, 17);
+            this.label4.Size = new System.Drawing.Size(266, 17);
             this.label4.TabIndex = 18;
-            this.label4.Text = "Don\'t use Special Characters or Commas\'";
+            this.label4.Text = "Don\'t use Special Characters or Commas";
             // 
             // SelectCSVfile
             // 
