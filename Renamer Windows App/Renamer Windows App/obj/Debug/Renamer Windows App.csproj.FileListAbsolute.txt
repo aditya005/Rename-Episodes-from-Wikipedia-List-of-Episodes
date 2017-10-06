@@ -1,0 +1,10 @@
+c:\users\asrad\documents\visual studio 2015\Projects\Renamer Windows App\Renamer Windows App\bin\Debug\Renamer Windows App.exe.config
+C:\Users\asrad\Documents\GitHub\Rename-Episodes-from-Wikipedia-List-of-Episodes\Renamer Windows App\Renamer Windows App\bin\Debug\Renamer Windows App.exe.config
+C:\Users\asrad\Documents\GitHub\Rename-Episodes-from-Wikipedia-List-of-Episodes\Renamer Windows App\Renamer Windows App\bin\Debug\Renamer Windows App.exe
+C:\Users\asrad\Documents\GitHub\Rename-Episodes-from-Wikipedia-List-of-Episodes\Renamer Windows App\Renamer Windows App\bin\Debug\Renamer Windows App.pdb
+C:\Users\asrad\Documents\GitHub\Rename-Episodes-from-Wikipedia-List-of-Episodes\Renamer Windows App\Renamer Windows App\obj\Debug\Renamer Windows App.csprojResolveAssemblyReference.cache
+C:\Users\asrad\Documents\GitHub\Rename-Episodes-from-Wikipedia-List-of-Episodes\Renamer Windows App\Renamer Windows App\obj\Debug\Renamer_Windows_App.Form1.resources
+C:\Users\asrad\Documents\GitHub\Rename-Episodes-from-Wikipedia-List-of-Episodes\Renamer Windows App\Renamer Windows App\obj\Debug\Renamer_Windows_App.Properties.Resources.resources
+C:\Users\asrad\Documents\GitHub\Rename-Episodes-from-Wikipedia-List-of-Episodes\Renamer Windows App\Renamer Windows App\obj\Debug\Renamer Windows App.csproj.GenerateResource.Cache
+C:\Users\asrad\Documents\GitHub\Rename-Episodes-from-Wikipedia-List-of-Episodes\Renamer Windows App\Renamer Windows App\obj\Debug\Renamer Windows App.exe
+C:\Users\asrad\Documents\GitHub\Rename-Episodes-from-Wikipedia-List-of-Episodes\Renamer Windows App\Renamer Windows App\obj\Debug\Renamer Windows App.pdb
