@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.label1 = new System.Windows.Forms.Label();
             this.PathLable = new System.Windows.Forms.Label();
             this.ExtentionLable = new System.Windows.Forms.Label();
@@ -216,9 +215,9 @@
             this.label4.AutoSize = true;
             this.label4.Location = new System.Drawing.Point(163, 352);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(195, 17);
+            this.label4.Size = new System.Drawing.Size(269, 17);
             this.label4.TabIndex = 18;
-            this.label4.Text = "Don\'t use Special Characters ";
+            this.label4.Text = "Don\'t use Special Characters or Commas\'";
             // 
             // SelectCSVfile
             // 
@@ -279,7 +278,6 @@
             this.Controls.Add(this.ExtentionLable);
             this.Controls.Add(this.PathLable);
             this.Controls.Add(this.label1);
-            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "Renamer";
             this.Load += new System.EventHandler(this.Form1_Load);
